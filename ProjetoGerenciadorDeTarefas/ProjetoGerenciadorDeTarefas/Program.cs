@@ -19,7 +19,7 @@ namespace ProjetoGerenciadorDeTarefas
                     switch (opcao)
                     {
                         case 1:
-                            Console.WriteLine("Cadastrar Tarefa");
+                            Console.WriteLine("Cadastrar Tarefas");
                             CadastrarTarefa(tarefas);
                             break;
                         case 2:
